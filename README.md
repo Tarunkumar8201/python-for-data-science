@@ -1,3 +1,3 @@
 # python-for-data-science
-> NUMPY
-> Pandas
+#NUMPY
+#Pandas
